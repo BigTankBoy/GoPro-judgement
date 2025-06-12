@@ -20,16 +20,6 @@ GoPro Judgement Site는 SMC-SECU 소속 프로그래밍 동아리 GoPro에서 �
 | 🎨 Front-end | 김은진, 강준호                      |
 | 🖌️ 디자인     | 강준호, 지소은                      |
 
----
-
-## 🛠️ 사용 방법
-
-1. 사이트 접속: [https://smc-gopro.net/](https://smc-gopro.net/)
-2. 회원가입 및 로그인
-3. 다양한 프로그래밍 문제를 풀며 학습 진행!
-
----
-
 ## 🏫 Made by SMC-SECU GoPro
 
 GoPro는 세명컴퓨터고등학교 보안과의 프로그래밍 동아리입니다.  
